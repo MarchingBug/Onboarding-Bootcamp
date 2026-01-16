@@ -1,36 +1,37 @@
 # Onboarding Bootcamp Hackathon
 
-A 2‑day, immersive technical bootcamp where new Solution Engineers learn by building real FSI‑grade solutions end‑to‑end. Each participant team chooses one of three industry tracks:
+A 3‑day, immersive technical bootcamp where new Solution Engineers learn by building real FSI‑grade solutions end‑to‑end. Each participant team chooses one of three industry tracks:
 
 ## 1. Capital Markets
 - Trade ingestion → medallion pipeline
 - Surveillance signals (pattern detection / summarization)
 - Agent that triages alerts + drafts compliance summaries
 
-## 2. Insurance
-- Claims document intelligence → extracted entities
-- Fraud signals + risk scoring
-- Agent that guides adjuster workflow + generates customer correspondence
-
-## 3. Banking
-- Customer financial profile ingestion
-- Suitability, portfolio analysis, product recommendations
-- Agent that generates advisor scripts + outreach emails
-
 Each track uses the same backbone architecture to reinforce core SE skills.
 
+# Bootcamp Pre-Requisites
 
-# Two‑Day Agenda 
+- MCAPS Subscription - Self learning/Demo with E5 Tenant
+- Review the following material:
+    -  <a href="https://www.youtube.com/watch?v=tQp1YkB2Tgs" target="_blank">Introduction - AZ-900 Certification Course</a>**  
+    - <a href="https://www.youtube.com/watch?v=bTkUTkXrqOQ" target="_blank"> AI-900 Study Cram v2 (the non-Generative AI bits) </a>
+    - <a href="https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals?tabs=browser" target="_blank">Application and service principal objects in Microsoft Entra ID </a>
+    -<a href="https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview" target="_blank">What is managed identities for Azure resources?</a>
+    - <a href="https://learn.microsoft.com/en-us/fabric/enterprise/licenses" target="_blank">Understand Microsoft Fabric licenses</a>
+    - <a href="https://www.youtube.com/watch?v=PXtFq5wmGt0" target="_blank">Azure API Management Deep Dive</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview" target="_blank">About Azure Key Vault </a>
+
+# Three ‑ Day Agenda 
 
 ## Day 1 — Foundations + Environment + Industry Deep Dive
 
 ### 8:30 – 9:00 | Welcome + Orientation
 - Bootcamp purpose
-- Track selection (Infra, App Innov, Data & AI + CM/Insurance/Banking)
+- Track selection (Infra, App Innov, Data & AI for Capital Markets)
 - Roles: speaker, coaches, scorekeeper 
 
 ### 9:00 – 9:45 | Keynote: "FSI AI + Secure Cloud Foundations"
-- Capital Markets, Insurance, Banking problem frames
+- Capital Markets
 - AI + Fabric + Foundry patterns
 
 ### TRACK BREAKOUTS START
@@ -76,7 +77,7 @@ Each track uses the same backbone architecture to reinforce core SE skills.
 
 ---
 
-## Day 2 — Build, Harden, Pitch
+## Day 2 — Build, Harden
 
 ### 8:30 – 9:00 | Stand‑Up
 - Cross‑track unblockers
@@ -84,12 +85,18 @@ Each track uses the same backbone architecture to reinforce core SE skills.
 
 ### All Tracks (Unified Build)
 
-**9:00 – 12:00**
+**9:00 – 5:00**
 - **Infra:** lock down security, alerts, identity + rate limits
 - **App Innov:** finalize deployment + API proxy
 - **Data & AI:** finalize agents + validate governance
-- **Industry:** apply to CM/Insurance/Banking datasets
 
+
+## Day 3 — Pitch
+
+### 9:00 - 12:00 
+- Story telling
+- Recognize the value proposition
+- Identify what's 
 
 ### 1:00 – 2:30 | Finalization + Storytelling
 - Exec narrative  
