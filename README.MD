@@ -1,5 +1,5 @@
 # Onboarding Bootcamp Hackathon (FSI: Capital Markets)
-A One day multi-track onboarding experience for Solution Engineers.
+A one-day onboarding experience for Solution Engineers.
 
 ## Agenda
 - Secure Infrastructure (Landing Zone, APIM, MI, Private Endpoints)
