@@ -1,18 +1,15 @@
-# Onboarding Bootcamp Hackathon (FSI: CM + Insurance + Banking)
-A 2‑day multi-track onboarding experience for new Infrastructure, App Innovation,
-and Data & AI Solution Engineers.
+# Onboarding Bootcamp Hackathon (FSI: Capital Markets)
+A One day multi-track onboarding experience for Solution Engineers.
 
-## Tracks
+## Agenda
 - Secure Infrastructure (Landing Zone, APIM, MI, Private Endpoints)
 - App Innovation (Foundry, Container Apps, API-first app patterns)
 - Data & AI (Fabric Medallion, Fabric Shortcuts + Ingestion, Purview, Agents + FastAPI)
 - Industry Scenarios: Capital Markets, Insurance, Banking
 
-
-## How to Start
-1. Select your track
-2. Complete environment setup
-3. Follow Day 1 → Day 2 agenda
+## What to do:
+1. Complete environment setup
+2. Follow Agenda
 4. Finalize solution and deliver pitch
 
 ## Deliverables per team
