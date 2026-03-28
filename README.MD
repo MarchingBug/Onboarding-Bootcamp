@@ -1,29 +1,29 @@
-# Onboarding Bootcamp Hackathon (FSI: Capital Markets)
-A one-day onboarding experience for Solution Engineers.
+# Onboarding Bootcamp Hackathon
 
-## Agenda
-- Secure Infrastructure (Landing Zone, APIM, MI, Private Endpoints)
-- App Innovation (Foundry, Container Apps, API-first app patterns)
-- Data & AI (Fabric Medallion, Fabric Shortcuts + Ingestion, Purview, Agents + FastAPI)
-- Industry Scenarios: Capital Markets, Insurance, Banking
+A one day, immersive technical bootcamp where new Solution Engineers learn by building real FSI‑grade solutions end‑to‑end. 
 
-## What to do:
-1. Complete environment setup
-2. Follow Agenda
-4. Finalize solution and deliver pitch
+Use this repository for Fabric's source code and SQL Database.
 
-## Deliverables per team
+**Data policy:** prohibit real customer/production data; use scrubbed, open, or synthetic datasets and provide licensing guidance.
 
-### A. Architecture & Build (40%)
-- Fabric medallion lakehouse with OneLake shortcuts; pipelines/notebooks operationalized.
-- FastAPI service (Azure App Service or AKS) with auth, logging, and content filters.
-- Copilot/Agent artifact (Studio or orchestration) wired to API + governance controls.
 
-### B. Governance & Security (20%)
-- Purview scan/classification + lineage; policy docs; data usage compliance.
+## Useful Links for the hack
 
-### C. Business Value Story (25%)
-- KPI baseline → projected impact, cost model, rollout plan; exec pitch (5–10 min).
+- <a href="https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals?tabs=browser" target="_blank">Application and service principal objects in Microsoft Entra ID</a>
+- <a href="https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview" target="_blank">What is managed identities for Azure resources?</a>
+- <a href="https://learn.microsoft.com/en-us/fabric/enterprise/licenses" target="_blank">Understand Microsoft Fabric licenses</a>
+- <a href="https://www.youtube.com/watch?v=PXtFq5wmGt0" target="_blank">Azure API Management Deep Dive</a>
+- <a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview" target="_blank">About Azure Key Vault</a>
 
-### D. Reusability Assets (15%)
-- README, IaC scripts, templates, and a "Book of Agents" entry to share org‑wide.
+
+## After the Hack
+- Consider how to improve and expand your demo enviroment.
+
+
+## For your consideration
+
+- <a href="https://www.youtube.com/watch?v=tQp1YkB2Tgs" target="_blank">Introduction - AZ-900 Certification Course</a>
+- <a href="https://www.youtube.com/watch?v=bTkUTkXrqOQ" target="_blank">AI-900 Study Cram v2 (the non-Generative AI bits)</a>
+- <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification" target="_blank">Microsoft Certified: Fabric Analytics Engineer Associate</a>
+- <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification" target="_blank">Microsoft Certified: Fabric Data Engineer Associate</a>
+    
