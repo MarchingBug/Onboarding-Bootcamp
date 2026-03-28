@@ -6,6 +6,8 @@ Use this repository for Fabric's source code and SQL Database.
 
 **Data policy:** prohibit real customer/production data; use scrubbed, open, or synthetic datasets and provide licensing guidance.
 
+Architecture Summary: This is an end-to-end FSI (Financial Services Industry) demo solution with FastAPI backend, Fabric data engineering pipelines, SQL database, Azure infrastructure automation, and Microsoft Purview governance.
+
 
 ## Useful Links for the hack
 
